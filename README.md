@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Manuel
-- 👀 I’m estudiante de ingeneniería de Telecomunicaciones.
+- 👋 Hi, I’m Manuel.
 - 🌱 I’m currently learning  diversos lenguajes de programación.
 
 <!---
